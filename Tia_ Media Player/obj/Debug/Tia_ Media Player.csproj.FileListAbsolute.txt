@@ -1,0 +1,13 @@
+C:\Users\57302\source\repos\Tia_ Media Player\obj\Debug\Tia_ Media Player.csproj.AssemblyReference.cache
+C:\Users\57302\source\repos\Tia_ Media Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\57302\source\repos\Tia_ Media Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\57302\source\repos\Tia_ Media Player\obj\Debug\Tia_ Media Player.csproj.ResolveComReference.cache
+C:\Users\57302\source\repos\Tia_ Media Player\obj\Debug\Tia__Media_Player.UserControl1.resources
+C:\Users\57302\source\repos\Tia_ Media Player\obj\Debug\Tia_ Media Player.csproj.GenerateResource.cache
+C:\Users\57302\source\repos\Tia_ Media Player\obj\Debug\Tia_ Media Player.csproj.CoreCompileInputs.cache
+C:\Users\57302\source\repos\Tia_ Media Player\bin\Debug\Tia_ Media Player.dll
+C:\Users\57302\source\repos\Tia_ Media Player\bin\Debug\Tia_ Media Player.pdb
+C:\Users\57302\source\repos\Tia_ Media Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\57302\source\repos\Tia_ Media Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\57302\source\repos\Tia_ Media Player\obj\Debug\Tia_ Media Player.dll
+C:\Users\57302\source\repos\Tia_ Media Player\obj\Debug\Tia_ Media Player.pdb
